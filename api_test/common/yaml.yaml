@@ -1,0 +1,12 @@
+beta: https://api-beta.yjyz.com
+prod: https://api.yjyz.com
+X-Organ-Id: '670010683867799680'
+X-City-Code: '440100'
+authorize: /sso/oidc/authorize
+execute: /sso/oidc/execute
+accessToken: /sso/oidc/accessToken
+regionCode: 86
+virtualnumber:
+  brandId: 670009459898460224
+  companyId: 670010683867799680
+authorization: eyJhbGciOiJSUzI1NiJ9.eyJkdCI6InBjX3dlYiIsInR0IjoiMSIsInN1YiI6IjY0NDQyODkwMjA1NzA4Mjg4MCIsIlVOb25jZSI6IjExZTg4ZmFmLTU2M2UtNGJjZS04ODU0LTFkNWUxYzg0ZmM0YixmMWE1YTQwMi01MmI4LTQxYTYtOTg4My0xMTFkYTc2NGUzMGEiLCJyb2xlIjoiNTg1MDE0NjQyNzE3OTgyNzIwIiwiaXNzIjoieWp5ei5jb20iLCJleHAiOjE2MDgxNzI5ODIsImlhdCI6MTYwODAwMDE4MiwianRpIjoiMWExZmZjMGQtNjY3Mi00OTliLTlhNzktNjgyMGFjNjVjMDAzIn0.YQ8o1Sw2VApex4VAtl4kiggv3kMB88hKZP2kyXKfTte7MldTgq0Dpc2xsHhX44X2tb5KYlLxrQcl7GFFZ7GmJ6hu8utGWNAjqI9nxywIzXOlga9_RFqUrb75aNTimF9Jq3a47-dazk5vKJDnsjU_OIeFczLjJsHh8-xyqgKUPfc
