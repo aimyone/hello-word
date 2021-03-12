@@ -1,1 +1,1 @@
-from xlrd import open_workbook
+from xlrd import open_workbook11
